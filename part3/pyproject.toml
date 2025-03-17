@@ -2,7 +2,7 @@
 name = "part3"
 version = "0.1.0"
 description = ""
-authors = ["Metin100 <9455@holbertonstudents.com>"]
+authors = ["İbrahimnuri <9778@holbertonstudents.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
